@@ -1,5 +1,5 @@
 # MozziGo
-This github repository contains our **IBM Code for Covid** project and its documentation files.
+This github repository contains our **HDB Cool Ideas Hack** project and its documentation files.
 ## Contents
 - Short description
 - Demo video
