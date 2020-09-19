@@ -21,15 +21,14 @@ Here technology and big data are used to better visualize dengue hotspots and ef
 ### Our Idea
 Our solution is to introduce an app called MozzieGo which allows us to crowdsource mosquito sightings from the general public. Data is then sent to IBM cloud foundry which then returns the data in the form of a map.
 ## Our Demo
-https://youtu.be/7eYQQLM63iA
+https://drive.google.com/file/d/1dL2Bpqjz5_ENM569RAJhMvJdrwMgIQcG/view?usp=sharing
 ## The Arcitecture
 The project has 2 main componets:
 1. User application, running on mobile phone
 2. Data processing server, setup using cloud foundry and running on **IBM Cloud**
 ## The Long description
 The long description of our project an be found at https://docs.google.com/document/d/1hbgReQhugyP_LoH-JBmeS0kD3nk_brT0FU1I2KtGonQ/edit?usp=sharing
-## Our Project Roadmap
-This is our project's roadmap.
+## Our Slides
 https://docs.google.com/presentation/d/1eeWZ2JvRmoypdHL7c7zSHHGMNnslv40GaT8cyIdjgUQ/edit?usp=sharing
 ## Getting Started
 There are 2 commponents: user mobile phone application and data server
